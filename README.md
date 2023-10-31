@@ -60,3 +60,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/bd5105625/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bd5105625&show_icons=true&locale=en&layout=compact" alt="bd5105625" /></p>-->

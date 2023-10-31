@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌐 Web & Frameworks: React, Redux, Node.js, Express.js, REST API, PyQt5, Tailwind CSS, Jest
 - ☁️ Cloud & DevOps: AWS, GCP, Kubernetes, Docker, Heroku, Jenkins
 - 📊 Databases: PostgreSQL, Oracle SQL, MongoDB
-- 🔧 Tools: UiPath Studio, Postman, Swagger, Selenium, Git, 
+- 🔧 Tools: UiPath Studio, Postman, Swagger, Selenium, Git
 - 💬 How to reach me: **bd5105625@gmail.com**
 
 <!--Intro end-->

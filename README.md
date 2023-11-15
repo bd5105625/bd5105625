@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 <!--Intro part-->
 
 - 🔭 I’m currently looking for full-time **software engineer** role 
-- 💻 Programming Language: Python, JavaScript, TypeScript, C, C++, C#
+- 💻 Programming Language: Python, JavaScript, TypeScript, Java, C, C++, C#
 - 🌐 Web & Frameworks: React, Redux, Node.js, Express.js, REST API, PyQt5, Tailwind CSS, Jest
 - ☁️ Cloud & DevOps: AWS, GCP, Kubernetes, Docker, Heroku, Jenkins
-- 📊 Databases: PostgreSQL, Oracle SQL, MongoDB
+- 📊 Databases: PostgreSQL, Oracle SQL, MongoDB, MySQL
 - 🔧 Tools: UiPath Studio, Postman, Swagger, Selenium, Git
 - 💬 How to reach me: **bd5105625@gmail.com**
 
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,cs,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,cs,html,css&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,tailwind,babel,heroku,mongodb,postgres,sqlite,postman,qt&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,tailwind,babel,heroku,mongodb,postgres,mysql,sqlite,postman,qt&perline=14" />
   </a>
 </p>
 <p align="center">

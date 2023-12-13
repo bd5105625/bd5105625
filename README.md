@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,tailwind,babel,heroku,mongodb,postgres,mysql,sqlite,postman,qt&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,tailwind,babel,mongodb,postgres,mysql,sqlite,prisma,postman,qt&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,selenium,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,heroku,docker,kubernetes,jenkins,git,selenium,vscode&perline=14" />
   </a>
 </p>
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💻 Programming Language: Python, JavaScript, TypeScript, Java, C, C++, C#
 - 🌐 Web & Frameworks: React, Next.js, Redux, Node.js, Express.js, REST API, PyQt5, Tailwind CSS, Jest
 - ☁️ Cloud & DevOps: AWS, GCP, Kubernetes, Docker, Heroku, Jenkins
-- 📊 Databases: PostgreSQL, Oracle SQL, MongoDB, MySQL
+- 📊 Databases: MySQL, PostgreSQL, Oracle SQL, MongoDB
 - 🔧 Tools: Prisma, UiPath Studio, Postman, Swagger, Selenium, Git
 - 💬 How to reach me: **bd5105625@gmail.com**
 

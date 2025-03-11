@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Brad Liu </h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Kang-Tzu Liu </h1></summary>
   </ul>
 </div>
 
